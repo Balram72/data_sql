@@ -1,1 +1,1 @@
-# data_sql
+# this is normal Sql programs
